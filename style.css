@@ -9,6 +9,7 @@ nav{
     align-items: center;
     border-bottom: 2px solid #e6dfdf;
     box-shadow: 0px 5px 5px #888;
+    justify-content: space-evenly;
 }
 nav .logo{
     max-width: 140px;
